@@ -3,14 +3,21 @@
 20181126-day-as-cloud-engineer-netflix.md
 NET-312
 
-
 ## Inter-vpc communication
 
-- aws cloud 
+- aws cloud
   - region
     - vpc1
     - vpc-sharing
     - vpc2
 
-- titus open source netflix system
--
+# Titus open source netflix system
+
+- DNS Steering
+- based on geography
+- users are statically assigned to one region vs another
+
+- What about latency?
+  Amazon Route 53 latency-based routing
+
+- DNS Steeringa; Prefix Steering
