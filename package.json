@@ -1,0 +1,19 @@
+{
+  "name": "aws-reinvent2018-notes",
+  "version": "1.0.0",
+  "description": "Notes from various reinvent 2018 sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HipsterZipster/aws-reinvent2018-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HipsterZipster/aws-reinvent2018-notes/issues"
+  },
+  "homepage": "https://github.com/HipsterZipster/aws-reinvent2018-notes#readme"
+}
