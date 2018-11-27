@@ -4,21 +4,19 @@ Speaker: Nader Dabit
 Developer Advocate, AWS Mobile
 
 # Getting Started
+
 - AWS AppSync
 - Apollo Client / Server
-
 
 ## Naming Matters
 
 - no code names or lingo
 - design the schema to the needs of the UI
-- make type names as specific as possible (NewsArticles  vs Articles)
+- make type names as specific as possible (NewsArticles vs Articles)
 - name queries and mutations "entityAction" (userCreate, userDelete) instead of "actionEntity" ("createUser", deleteUser)
 - dont make your schema a 1:1 mapping of your data achitecture
 
 ## Use Input Types
-
-
 
 API Gateway - Resolvers
 

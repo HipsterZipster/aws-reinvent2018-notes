@@ -41,8 +41,8 @@ From low level to higher level
 
 - SDK for defining your infra and your cloud resources
 
-
 ## Demo -goals
+
 send message to sqs queue -> event source aws lambda -> cloudwatch logs
 
 ## Demo - Writing constructs

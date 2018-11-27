@@ -1,10 +1,8 @@
 advacned continuous deliveyr best practices
 DEV317-R
 
-
-Curtis Rissi 
+Curtis Rissi
 Felipe
-
 
 What you'll learn
 
@@ -160,5 +158,4 @@ Summary: Segment Production
 
 ### Code is available online
 
-
-### Related 
+### Related

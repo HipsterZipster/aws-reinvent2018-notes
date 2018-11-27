@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HipsterZipster/aws-reinvent2018-notes/issues"
   },
-  "homepage": "https://github.com/HipsterZipster/aws-reinvent2018-notes#readme"
+  "homepage": "https://github.com/HipsterZipster/aws-reinvent2018-notes#readme",
+  "dependencies": {
+    "prettier": "^1.15.2"
+  }
 }
